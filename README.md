@@ -1,13 +1,9 @@
-# whatsapp-clone
-
-![Whatsapp clone demo](https://drive.google.com/uc?export=view&id=1LCLdnYzsxcCmqFxaw3oIEPR-D30N5zMG)
-
-##### Warning: although this project has some basics security such as hashed user password, encrypt messages and so on, this project is NOT secure enough in production. (Contribute to this project by making a pull request will be appreciated)
+# mern - whatsapp
 
 How to run:
 
 - Clone this repository or fork it.
-  - To clone this repository type `git clone https://github.com/kimlimjustin/whatsapp-clone.git` on your command line
+  - To clone this repository type `git clone https://github.com/dmts90/MERN-Whatsapp.git` on your command line
   - To fork this repository, click fork button of this repository then type `git clone https://github.com/<your username>/whatsapp-clone.git`
 - Inside `server` folder, create a new file named `.env` which stores informations about server side such as `ATLAS_URI`, `SECURITY_KEY` and `CLIENT_URL` informations
   - store your database URI inside `ATLAS_URI` variable
@@ -38,7 +34,5 @@ How to run:
 - Run it on node js:
   - Client side: on the `client` directory type `npm start` (or `yarn`)
   - Server side: on the `server` directory type `npm start` (or `yarn`)
-
-## Like my work?
-
-<a href='https://ko-fi.com/kimlimjustin' target='_blank'><img height='35' style='border:0px;height:34px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+    
+![Whatsapp clone demo](https://drive.google.com/uc?export=view&id=1LCLdnYzsxcCmqFxaw3oIEPR-D30N5zMG)
